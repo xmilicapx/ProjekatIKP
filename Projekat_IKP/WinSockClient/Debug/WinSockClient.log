@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\Valentina\Desktop\Fakultet\Cetvrta godina\Sedmi semestar\Industrijski komunikacioni protokoli u iss\Projekti\Projekat_IKP\WinSockClient\Client.cpp(46,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WinSockClient.vcxproj -> C:\Users\Valentina\Desktop\Fakultet\Cetvrta godina\Sedmi semestar\Industrijski komunikacioni protokoli u iss\Projekti\Projekat_IKP\Debug\WinSockClient.exe
